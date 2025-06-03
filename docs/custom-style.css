@@ -1,0 +1,7 @@
+.reveal .column pre code,
+.reveal .column pre,
+.reveal pre code,
+.reveal code {
+  overflow-y: visible !important;
+  max-height: none !important;
+}
