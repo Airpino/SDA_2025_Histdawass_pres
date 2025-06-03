@@ -1,6 +1,6 @@
 ---
 title: |
-  The `HistDAWass` package: <br> A package for the analysis of Histogram-valued data
+ `HistDAWass:` an R package for the exploratory analysis of histogram data
 author:
   - name: "Antonio Irpino"
     affiliation: "Department of Mathematics and Physics <br> University of Campania L. Vanvitelli <br> Caserta, Italy"
